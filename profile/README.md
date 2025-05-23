@@ -1,5 +1,5 @@
-# Welcome To The Spark Studio
-<h1 align="center">🔥 Spark Studio 🔥</h1>
+# Welcome To The SAMI
+<h1 align="center">🔥 SAMI 🔥</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Project%20Status-Active-orange" />
@@ -11,7 +11,7 @@
 
 ### 🌟 Introduction
 
-At Spark Studio, nestled in the heart of Kazakhstan's vibrant tech scene, we're not just about writing code; we're about igniting innovation and engineering the future. As a premier IT company, we specialize in crafting cutting-edge solutions that bridge the gap between business needs and technological advancement.
+At SAMI, nestled in the heart of Kazakhstan's vibrant tech scene, we're not just about writing code; we're about igniting innovation and engineering the future. As a premier IT company, we specialize in crafting cutting-edge solutions that bridge the gap between business needs and technological advancement.
 
 ### 🌐 What We Do
 
@@ -29,7 +29,7 @@ Custom Software Solutions: Tailored software that fits your unique business requ
 
 We believe in the power of collaboration and the open-source community. Spark Studio actively contributes to and maintains several open-source projects, aiming to give back to the tech community and foster an environment of shared knowledge and innovation.
 
-### 💡 Why Spark Studio?
+### 💡 Why SAMI?
 
 Innovation at Core: We thrive on challenges and innovate to solve complex problems.
 Quality Driven: Quality isn't just a goal; it's our guiding principle.
@@ -40,7 +40,7 @@ Customer-Centric: We put our clients at the heart of everything we do, focusing 
 
 Whether you're a potential client looking for a technology partner or a developer eager to contribute, there's a place for you at Spark Studio. Explore our repositories, join our projects, or reach out to us to learn how we can create something amazing together.
 
-Spark Studio - From The Spark Of An Idea, To The Flame Of Success.
+SAMI.
 
 
 
