@@ -1,5 +1,5 @@
-# Welcome To The SAMI
-<h1 align="center">🔥 SAMI 🔥</h1>
+# Welcome To The Spark
+<h1 align="center">🔥 Spark 🔥</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Project%20Status-Active-orange" />
@@ -11,7 +11,7 @@
 
 ### 🌟 Introduction
 
-At SAMI, nestled in the heart of Kazakhstan's vibrant tech scene, we're not just about writing code; we're about igniting innovation and engineering the future. As a premier IT company, we specialize in crafting cutting-edge solutions that bridge the gap between business needs and technological advancement.
+At Spark, nestled in the heart of Kazakhstan's vibrant tech scene, we're not just about writing code; we're about igniting innovation and engineering the future. As a premier IT company, we specialize in crafting cutting-edge solutions that bridge the gap between business needs and technological advancement.
 
 ### 🌐 What We Do
 
